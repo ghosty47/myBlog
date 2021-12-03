@@ -9,7 +9,7 @@ import Write from "./pages/write/Write";
 
 
 function App() {
-  const user = false;
+  const user = true;
   return (
     <Router>
         <Topbar/> 
